@@ -8,7 +8,6 @@ Aspiring Software Engineer passionate about Full Stack Development, Backend Syst
 <img src="https://komarev.com/ghpvc/?username=himanshi0814&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- 🔭 Currently working on **Smart Interview Platform**
 - 🌱 Currently learning **Data Structures & Algorithms and Backend Development**
 - 💻 Interested in **Full Stack Development and AI/ML**
 - 📫 Reach me at **himanshirajput822@gmail.com**
